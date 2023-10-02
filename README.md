@@ -1,4 +1,4 @@
-ghazal ajdar and esmaeil
+# ghazal ajdar and esmaeil
 
 1. cd to the project directory
 3. Set up .env variables using .env.example
