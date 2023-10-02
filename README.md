@@ -10,4 +10,4 @@ run `docker build -t dockerHubUsername/apiservice .` on your terminal to build t
 To start your container run `docker run -p 9001:9001 dockerHubUsername/apiservice` 
 
 
-# PS. You can also use PM2 to start the service by running  `pm2 restart ecosystem.config.js` 
+ PS. You can also use PM2 to start the service by running  `pm2 restart ecosystem.config.js` 
